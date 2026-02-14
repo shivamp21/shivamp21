@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey, I’m Shivam!<br><br> 🔧 I'm currently working on<br>🚗 Building **RevRank** — a car-spotting + AI detection mobile app with auth, storage, and a social feed.<br><br> 🤝 I'm looking to collaborate on<br>🐍 Python projects in **AI/ML**, automation, data pipelines, or tools that solve real problems.<br><br> 🆘 I'm looking for help with<br>🛡️ Learning practical cybersecurity skills and how to apply them to real-world projects.<br><br> 📚 I'm currently learning<br>🤖 Python for **AI/ML** (data prep, model basics, and deployment), plus **CompTIA Security+** and secure coding.<br><br>
+## 👋 Hey, I’m Shivam!<br><br> 🔧 I'm currently working on<br>🚗 Building **Blynd.io** - an AI and algorithm powered service to protect brands.<br><br> 🤝 I'm looking to collaborate on<br>🐍 Python projects in **AI/ML**, automation, data pipelines, or tools that solve real problems.<br><br> 🆘 I'm looking for help with<br>🛡️ Learning practical cybersecurity skills and how to apply them to real-world projects.<br><br> 📚 I'm currently learning<br>🤖 Python for **AI/ML** (data prep, model basics, and deployment), plus **CompTIA Security+** and secure coding.<br><br>
 
 
 ## 🌐 Socials:
